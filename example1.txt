@@ -1,1 +1,2 @@
+this is a another file in txt  for git-tute practice
 this is a another file in txt  for gitt practice
